@@ -33,9 +33,6 @@ Pursuing a Bachelor of Science in Computer Science and Psychology at Michigan St
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niharsaketh20&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Nihar Saketh's GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niharsaketh20&theme=radical" alt="Nihar Saketh's GitHub Contribution Graph" />
