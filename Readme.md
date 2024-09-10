@@ -31,12 +31,6 @@ Pursuing a Bachelor of Science in Computer Science and Psychology at Michigan St
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=niharsaketh20&theme=react-dark&hide_border=true&area=true" alt="Nihar Saketh's GitHub Activity Graph" width="100%"/>
-</div>
-
 ## 🏆 Achievements
 
 - 🥇 Winner, MSU Hackathon 2023 - Best Use of Cloud Technology
