@@ -43,35 +43,31 @@ I'm on a mission to build impactful solutions and push the boundaries of what's 
 ### GitWiz
 A codebase visualizer that helps developers parse and understand large codebases more effectively.
 - **Tech**: Python, Flask, React, Gemini-API
+- **Features**: 
+  - Interactive tree visualization of code structure
+  - AI-powered code summaries
+  - Seamless GitHub integration
 
 ### Morphie
 An interactive platform for generating 3D assets from descriptive text input.
 - **Tech**: AWS, Spline, Figma, React, PyTorch, Flask, OpenAI
+- **Features**:
+  - Text-to-3D asset generation
+  - Customizable 3D models
+  - Cloud-based rendering for faster processing
 
-## 📈 GitHub Stats
+### ATTIRE
+A cross-platform wardrobe management app that revolutionizes personal styling.
+- **Tech**: Flutter, FastAPI, AWS (SNS, EC2, S3)
+- **Features**:
+  - AI-powered outfit recommendations
+  - Virtual wardrobe organization
+  - Social sharing and style community
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niharsaketh20&show_icons=true&theme=radical" alt="Nihar Saketh's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharsaketh20&theme=radical" alt="Nihar Saketh's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharsaketh20&layout=compact&theme=radical" alt="Nihar Saketh's Top Languages" />
-</div>
-
-## 📊 Weekly Coding Stats
+## 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=niharsaketh20&layout=compact&theme=radical" alt="Nihar Saketh's Wakatime Stats" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niharsaketh20&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Nihar Saketh's GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=niharsaketh20&theme=react-dark" alt="Nihar Saketh's GitHub Activity Graph" />
 </div>
 
 ## 🎉 Fun Fact of the Day
@@ -93,12 +89,6 @@ Always open to interesting conversations, collaboration opportunities, or just g
   
 > "The only way to do great work is to love what you do." - Steve Jobs
 
-</div>
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/niharsaketh20/count.svg)
-  
 </div>
 
 Thanks for stopping by, and happy coding! 🚀
