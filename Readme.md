@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Computer+Science+%26+Psychology+Student+@+MSU)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Enthusiast;Problem+Solver)
 
 </div>
 
-I'm on a mission to build impactful solutions and push the boundaries of what's possible in tech. Currently pursuing a Bachelor of Science in Computer Science and Psychology at Michigan State University.
+Pursuing a Bachelor of Science in Computer Science and Psychology at Michigan State University. I'm on a mission to build impactful solutions and push the boundaries of what's possible in tech.
 
 ## 🚀 Quick Facts
 
@@ -15,13 +15,6 @@ I'm on a mission to build impactful solutions and push the boundaries of what's 
 - 🛠️ Developer at My Attire LLC
 - 🏛️ Director of IT at Associated Students of Michigan State University
 - 🧩 Can solve a Rubik's cube in under a minute!
-
-## 💡 What I'm Passionate About
-
-- Building efficient software that solves real-world problems
-- Collaborating on open-source projects and innovative hackathons
-- Exploring cutting-edge technologies in AI, Machine Learning, and DevOps
-- Creating scalable backend systems that can handle anything you throw at them
 
 ## 🛠️ Tech Stack
 
@@ -38,37 +31,21 @@ I'm on a mission to build impactful solutions and push the boundaries of what's 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-## 🌟 Featured Projects
-
-### GitWiz
-A codebase visualizer that helps developers parse and understand large codebases more effectively.
-- **Tech**: Python, Flask, React, Gemini-API
-- **Features**: 
-  - Interactive tree visualization of code structure
-  - AI-powered code summaries
-  - Seamless GitHub integration
-
-### Morphie
-An interactive platform for generating 3D assets from descriptive text input.
-- **Tech**: AWS, Spline, Figma, React, PyTorch, Flask, OpenAI
-- **Features**:
-  - Text-to-3D asset generation
-  - Customizable 3D models
-  - Cloud-based rendering for faster processing
-
-### ATTIRE
-A cross-platform wardrobe management app that revolutionizes personal styling.
-- **Tech**: Flutter, FastAPI, AWS (SNS, EC2, S3)
-- **Features**:
-  - AI-powered outfit recommendations
-  - Virtual wardrobe organization
-  - Social sharing and style community
-
-## 📈 GitHub Contribution Graph
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=niharsaketh20&theme=react-dark" alt="Nihar Saketh's GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niharsaketh20&show_icons=true&count_private=true&hide=issues&theme=radical" alt="Nihar Saketh's GitHub Stats" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niharsaketh20&theme=radical" alt="Nihar Saketh's GitHub Contribution Graph" />
+</div>
+
+## 🏆 Achievements
+
+- 🥇 Winner, MSU Hackathon 2023 - Best Use of Cloud Technology
+- 🎓 Dean's List, College of Engineering, Michigan State University (2022-2023)
+- 💡 Published article on "The Future of AI in Software Development" in MSU Tech Review
 
 ## 🎉 Fun Fact of the Day
 
