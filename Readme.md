@@ -14,7 +14,6 @@ Pursuing a Bachelor of Science in Computer Science and Psychology at Michigan St
 - 💼 SWE Intern at ITC Infotech (Summer 2024)
 - 🛠️ Developer at My Attire LLC
 - 🏛️ Director of IT at Associated Students of Michigan State University
-- 🧩 Can solve a Rubik's cube in under a minute!
 
 ## 🛠️ Tech Stack
 
