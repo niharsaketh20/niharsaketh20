@@ -31,24 +31,10 @@ Pursuing a Bachelor of Science in Computer Science and Psychology at Michigan St
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-## 📈 GitHub Contributions
+## 📈 GitHub Activity
 
 <div align="center">
-  
-  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=niharsaketh20&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niharsaketh20&theme=radical)](https://git.io/streak-stats)
-  
-</div>
-
-<div align="center">
-  
-  ![Nihar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niharsaketh20&theme=react-dark)
-  
+  <img src="https://activity-graph.herokuapp.com/graph?username=niharsaketh20&theme=react-dark&hide_border=true&area=true" alt="Nihar Saketh's GitHub Activity Graph" width="100%"/>
 </div>
 
 ## 🏆 Achievements
