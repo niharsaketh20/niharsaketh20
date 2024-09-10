@@ -17,7 +17,8 @@ I'm a software developer, tech enthusiast, and lifelong learner, always on a que
 - **Cloud Platforms**: AWS, GCP, Firebase
 
 ### 📊 GitHub Stats
-![Nihar Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharsaketh20&show_icons=true&theme=radical)
+[![Nihar Saketh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=niharsaketh20&layout=compact&theme=radical)](https://wakatime.com/@niharsaketh20)
+
 
 ### 🎉 Random Dev Quote
 > "Programming is like writing a book... except if you miss a single comma on page 126, the whole thing makes no sense." - Unknown
