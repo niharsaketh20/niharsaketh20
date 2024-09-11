@@ -30,11 +30,6 @@ Pursuing a Bachelor of Science in Computer Science and Psychology at Michigan St
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-## 🏆 Achievements
-
-- 🥇 Winner, MSU Hackathon 2023 - Best Use of Cloud Technology
-- 🎓 Dean's List, College of Engineering, Michigan State University (2022-2023)
-- 💡 Published article on "The Future of AI in Software Development" in MSU Tech Review
 
 ## 🎉 Fun Fact of the Day
 
